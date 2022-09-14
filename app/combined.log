@@ -1,0 +1,101 @@
+undefined
+undefined
+undefined
+undefined
+undefined
+info: App running on port:4000 {"service":"user-service"}
+info: App running on port:4000
+info: App running on port:4000
+error: App running on port:4000
+info: App running on port:4000
+info: App running on port:4000
+info: App running on port:4000
+info: App running on port:4000
+info: App running on port:4000
+info: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[31merror[39m: syntax error at or near "return" {"code":"42601","file":"scan.l","length":95,"line":"1176","name":"error","position":"41","routine":"scanner_yyerror","service":"Practice_App","severity":"ERROR"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: [object Object] {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[31merror[39m: syntax error at or near "return" {"code":"42601","file":"scan.l","length":95,"line":"1176","name":"error","position":"41","routine":"scanner_yyerror","service":"Practice_App","severity":"ERROR"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[31merror[39m: getaddrinfo EAI_AGAIN db {"code":"EAI_AGAIN","errno":-3001,"hostname":"db","service":"Practice_App","syscall":"getaddrinfo"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[31merror[39m: getaddrinfo EAI_AGAIN db {"code":"EAI_AGAIN","errno":-3001,"hostname":"db","service":"Practice_App","syscall":"getaddrinfo"}
+[32minfo[39m: App running on port:4000 {"service":"Practice_App"}
+[31merror[39m: getaddrinfo EAI_AGAIN db {"code":"EAI_AGAIN","errno":-3001,"hostname":"db","service":"Practice_App","syscall":"getaddrinfo"}
+[31merror[39m: getaddrinfo EAI_AGAIN db {"code":"EAI_AGAIN","errno":-3001,"hostname":"db","service":"Practice_App","syscall":"getaddrinfo"}
+[31merror[39m: getaddrinfo EAI_AGAIN db {"code":"EAI_AGAIN","errno":-3001,"hostname":"db","service":"Practice_App","syscall":"getaddrinfo"}
+[31merror[39m: getaddrinfo EAI_AGAIN db {"code":"EAI_AGAIN","errno":-3001,"hostname":"db","service":"Practice_App","syscall":"getaddrinfo"}
+[31merror[39m: getaddrinfo EAI_AGAIN db {"code":"EAI_AGAIN","errno":-3001,"hostname":"db","service":"Practice_App","syscall":"getaddrinfo"}
+[31merror[39m: getaddrinfo EAI_AGAIN db {"code":"EAI_AGAIN","errno":-3001,"hostname":"db","service":"Practice_App","syscall":"getaddrinfo"}
